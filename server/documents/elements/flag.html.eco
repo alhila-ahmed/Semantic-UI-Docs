@@ -43,7 +43,7 @@ type        : 'UI Element'
       </thead>
       <tbody>
       <tr>
-        <td><i class="andorra flag"></i></td>
+        <td><i class="ps flag"></i></td>
         <td>Andorra</td>
         <td>ad</td>
         <td class="disabled"></td>
